@@ -1,4 +1,4 @@
-# MovieLive2473 — Dark Hybrid Android WebView App
+# MovieLive24 — Dark Hybrid Android WebView App
 
 A Kotlin/AndroidX shell for `https://movielive2473.blogspot.com` with fullscreen dark presentation, HTML5 video support, click interception, smartlink routing, a lightweight coin wallet, VIP payment modal, and fixed bottom navigation.
 
